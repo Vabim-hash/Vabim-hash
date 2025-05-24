@@ -2,7 +2,7 @@
 - 👀 I’m interested in: creating mobile developer.
 - 🌱 I’m currently learning: Puthon & AI sustem.
 - 💞️ I’m looking to collaborate on: in my field and just fun project.
-- 📫 How to reach me: tg: @KitaevVadim, kitaevvadim39@gmail.com
+- 📫 How to reach me: tg: @VadimHash, kitaevvadim39@gmail.com
 - 😄 Pronouns: int, float, str.
 - ⚡ Fun fact: Im 
 
